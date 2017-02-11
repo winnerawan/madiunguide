@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "214102618194",
+    "firebase_url": "https://mie-setan.firebaseio.com",
+    "project_id": "mie-setan",
+    "storage_bucket": "mie-setan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214102618194:android:23c1c544a2c0f64f",
+        "android_client_info": {
+          "package_name": "net.winnerawan.miesetan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214102618194-v7vju04idln2nbc5klomst7lar86kkaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFWENHKAsCv1DIpIKFaPj1vqpJiJ8-LU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214102618194:android:433d457002455417",
+        "android_client_info": {
+          "package_name": "id.biz.wonderwall.ibod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214102618194-c18152h16422kla38tkkdma2n2g9lg64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.biz.wonderwall.ibod",
+            "certificate_hash": "DC99DA74B47A27BEA60BE518FF59A73960CF2EF7"
+          }
+        },
+        {
+          "client_id": "214102618194-vq00bll4dpbumsgbba1csctpbhtpq7p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.biz.wonderwall.ibod",
+            "certificate_hash": "8F1493929DB5FE2B0C83718C9B34E6227A441993"
+          }
+        },
+        {
+          "client_id": "214102618194-v7vju04idln2nbc5klomst7lar86kkaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFWENHKAsCv1DIpIKFaPj1vqpJiJ8-LU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214102618194-v7vju04idln2nbc5klomst7lar86kkaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214102618194:android:a9a15b608e498347",
+        "android_client_info": {
+          "package_name": "net.winnerawan.openmadiun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214102618194-v7vju04idln2nbc5klomst7lar86kkaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFWENHKAsCv1DIpIKFaPj1vqpJiJ8-LU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. Wonderwall.biz.id | Winnerawan.net .
+  ~ Coder @author Winnerawan T
+  ~
+  -->
+
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/accent_material_light" />
+    <corners android:topLeftRadius="14.0dip" android:topRightRadius="14.0dip" android:bottomLeftRadius="14.0dip" android:bottomRightRadius="14.0dip" />
+</shape>

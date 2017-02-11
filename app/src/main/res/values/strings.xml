@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">"%1$s won't run unless you update the Android Wear app."</string>
+    <string name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by %1$s</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mr_media_route_button_content_description">Cast</string>
+    <string name="mr_media_route_chooser_searching">Searching for devices…</string>
+    <string name="mr_media_route_chooser_title">Connect to device</string>
+    <string name="mr_media_route_controller_disconnect">Disconnect</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="tw__allow_btn_txt">Allow</string>
+    <string name="tw__cta_text">Open in Vine</string>
+    <string name="tw__like_tweet">Like Tweet</string>
+    <string name="tw__liked_tweet">Undo Like</string>
+    <string name="tw__loading_tweet">Loading Tweet</string>
+    <string name="tw__login_btn_txt">Log in with Twitter</string>
+    <string name="tw__not_now_btn_txt">Not now</string>
+    <string name="tw__pause">pause</string>
+    <string name="tw__play">play</string>
+    <string name="tw__relative_date_format_long">MM/dd/yy</string>
+    <string name="tw__relative_date_format_short">MMM dd</string>
+    <string name="tw__replay">replay</string>
+    <string name="tw__retweeted_by_format">Retweeted by %1$s</string>
+    <string name="tw__share_content_format">"Check out @%1$s's Tweet: https://twitter.com/%1$s/status/%2$s"</string>
+    <string name="tw__share_email_desc">Allow %1$s to access the email address associated with your Twitter account @%2$s so that %1$s can use it according to its privacy policy. For example, %1$s could send you updates and other information at that address.</string>
+    <string name="tw__share_email_title">Share your email address</string>
+    <string name="tw__share_subject_format">Tweet from %1$s (@%2$s)</string>
+    <string name="tw__share_tweet">Share Tweet</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <string name="tw__tweet_media">Tweet Media</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="accept">Accept</string>
+    <string name="activated">"Your account has
+already been activated"</string>
+    <string name="app_name">Open Madiun</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="btn_rate">Rate</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="com.crashlytics.android.build_id">4e755a52-0fbf-4c49-bfee-91ed0db7ec06</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="count_review">2.672 reviews</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <string name="done">Done!</string>
+    <string name="ekslusif">Exclusive</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email Address</string>
+    <string name="episode">Episodes</string>
+    <string name="error_sampple">Error sample</string>
+    <string name="facebook_app_id">1061425130619258</string>
+    <string name="favorite_genre">YOUR FAVORITE GENRES</string>
+    <string name="fb_login_protocol_scheme">fb1061425130619258</string>
+    <string name="follow_us">Follow Us On</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="forgot_password">"It Looks Like You Forgot Your Password,
+Put Your Email"</string>
+    <string name="full_name">Full name</string>
+    <string name="gender">Gender</string>
+    <string name="get_started">Get Started</string>
+    <string name="just_register"><b>You have just registered</b></string>
+    <string name="kit_name">Twitter</string>
+    <string name="leave_review">Leave Review Program</string>
+    <string name="like">12,245 likes</string>
+    <string name="live_tv"><b>Live TV</b></string>
+    <string name="member">Member Since June 07, 2016</string>
+    <string name="more">more</string>
+    <string name="more_like_this">More Like This</string>
+    <string name="mr_media_route_controller_pause">Pause</string>
+    <string name="mr_media_route_controller_play">Play</string>
+    <string name="mr_media_route_controller_settings_description">Route settings</string>
+    <string name="mr_media_route_controller_stop">Stop casting</string>
+    <string name="must_be">"Your password must be at least 6 characters,
+upper &amp; lower case letters and at least one numbers"</string>
+    <string name="my_profile"><b>My Profile</b></string>
+    <string name="name">Dwi Putra Fathurahman</string>
+    <string name="new_password">New Password</string>
+    <string name="newpassword">New Password</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="gotit">GOT IT</string>
+    <string name="old_password">Old Password</string>
+    <string name="oops">OOPS!</string>
+    <string name="open_zulu">Zulu</string>
+    <string name="or_sign_in_using">or sign in using:</string>
+    <string name="password">Password</string>
+    <string name="password_">*********</string>
+    <string name="phone">Phone Number</string>
+    <string name="play_hd"><b>Play HD On Wifi (720P)</b></string>
+    <string name="privacy_policy"><b>Privacy &amp; Policy</b></string>
+    <string name="profile"><b>Profile</b></string>
+    <string name="radio_female">Female</string>
+    <string name="radio_male">Male</string>
+    <string name="re_type_new_password">Re-type New Password</string>
+    <string name="result">664 result for</string>
+    <string name="review">NEWEST REVIEWS</string>
+    <string name="sample_description" />
+    <string name="sample_description2">Tetangga Masa Gitu? Merupakan sitkom yang menampilkan kehidupan sehari-hari 2 pasangan suami istri. Pasangan yang pertama sudah menikah sekitar 10 tahun, sedangkan pasangan kedua baru saja menikah 8 hari. Pasangan ini tinggal dalam satu kompleks dan hidup bertetangga.</string>
+    <string name="sample_episode" />
+    <string name="sample_genre" />
+    <string name="sample_season">Season 1</string>
+    <string name="sample_session" />
+    <string name="sample_sub_title" />
+    <string name="sample_time" />
+    <string name="sample_title" />
+    <string name="search">Search for Video</string>
+    <string name="search_title">Tetangga masa gitu</string>
+    <string name="select">Select at least 3</string>
+    <string name="select_chanel">Select The Channels To Watch Live TV</string>
+    <string name="send">Send</string>
+    <string name="setting_profile">Setting Profile</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out"><b>Sign Out</b></string>
+    <string name="squarecamera__action_settings">Settings</string>
+    <string name="squarecamera__app_name">SquareCamera</string>
+    <string name="squarecamera__auto_flash">Auto Flash</string>
+    <string name="squarecamera__cancel">Cancel</string>
+    <string name="squarecamera__capture_image">Snap It!</string>
+    <string name="squarecamera__capturing_image">Taking New Picture</string>
+    <string name="squarecamera__done">Done</string>
+    <string name="squarecamera__flash">Flash</string>
+    <string name="squarecamera__no_flash">No Flash</string>
+    <string name="squarecamera__recapture_image">Retake Picture</string>
+    <string name="squarecamera__request_write_storage_permission_text">Approval is needed to save your photo on your device</string>
+    <string name="squarecamera__save_image">Save</string>
+    <string name="squarecamera__start_image_capture">Take New Picture!</string>
+    <string name="squarecamera__swap_camera">Swap</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="term_condition"><b>Terms And Condition</b></string>
+    <string name="trailer">Trailer</string>
+    <string name="trailers">Trailers</string>
+    <string name="tw__composer_hint">"What's Happening?"</string>
+    <string name="tw__install">Install</string>
+    <string name="tw__max_tweet_chars">140</string>
+    <string name="tw__play_store">Google Play</string>
+    <string name="tw__post_tweet">Tweet</string>
+    <string name="txt_my_watch_list">My Watch List</string>
+    <string name="txt_next">Next In 89</string>
+    <string name="txt_post">Post</string>
+    <string name="txt_reset">"Your password must be at least 6
+characters, upper &amp; lower case letters
+and at least one numbers"</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_tap_to_Rate">Tap to rate</string>
+    <string name="txt_term_condition">""<b>Aplikasi ini</b> merupakan milik dari <b>WONDERWALL.BIZ.ID</b>" sepenuhnya.
+
+Setiap orang dapat mengakses "<b>aplikasi ini</b> dengan terlebih dahulu melakukan login dengan sosial media <b>GOOGLE+ , FACEBOOK, atau TWITTER</b>, dan secara otomatis akan terikat dengan  <b>syarat dan ketentuan aplikasi ini</b>" termasuk dan tidak terbatas setiap perubahannya yang dimungkinkan terjadi dimasa yang akan datang.
+
+Bagi member pengguna "<b>aplikasi ini</b> jika ingin memberikan saran silahkan kirim melalui email <b>support@winnerawan.net</b>" "</string>
+    <string name="txt_total_rating">4.4 ( 980 rating )</string>
+    <string name="verification">ZULU VERIFICATION</string>
+    <string name="verification_register">"Please check your email to activate
+your account"</string>
+    <string name="welcome">"MADIUN
+KOTA PERDANGAN
+&amp; INDUSTRI."</string>
+    <string name="intro_1">"TERDAPAT SEMUA INFO
+TENTANG OBYEK WISATA
+YANG BISA ANDA KUNJUNGI."</string>
+    <string name="intro_2">"TERDAPAT SEMUA INFO
+TEMPAT KOST
+&amp; HOMESTAY.
+
+BAGI PENYEDIA JASA
+PROMOSIKAN
+TEMPATMU!."</string>
+    <string name="intro_3">"TERINTEGRASI DENGAN GOOGLE MAPS.
+DAN MASIH BANYAK FITUR LAINNYA.
+INI SEMUA TENTANG MADIUN!
+&amp; YANG PALING PENTING,
+GRATIS!"</string>
+    <string name="map_api_key">AIzaSyDv_II7l4Pxn_Sx_4D27HRzBs4E6FLoT2A</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDv_II7l4Pxn_Sx_4D27HRzBs4E6FLoT2A</string>
+    <string name="write_Review">Write Review</string>
+    <string name="write_review">Write a Review</string>
+    <string name="app_id">ca-app-pub-5062659998443194~4028442263</string>
+    <string name="ads_banner">ca-app-pub-5062659998443194/5505175468</string>
+    <string name="ads_interstitial">ca-app-pub-5062659998443194/8458641868</string>
+    <string name="ads_native">ca-app-pub-5062659998443194/3888841466</string>
+    <string name="vertical_ellipsis">&#8942;</string>
+</resources>

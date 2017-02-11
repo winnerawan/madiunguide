@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/colorPrimary" android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout android:orientation="vertical" android:background="@drawable/bg_ae" android:layout_width="fill_parent" android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <FrameLayout android:paddingTop="@dimen/padding_top_104dp" android:layout_width="fill_parent" android:layout_height="@dimen/nol_dp" android:layout_weight="1.0"></FrameLayout>
+        <LinearLayout android:gravity="bottom" android:orientation="vertical" android:paddingLeft="@dimen/padding_left_18dp" android:paddingRight="@dimen/padding_right_18dp" android:paddingBottom="@dimen/padding_bottom_15dp" android:layout_width="fill_parent" android:layout_height="@dimen/nol_dp" android:layout_weight="1.0">
+            <TextView
+                android:textSize="@dimen/txt_easiest_way"
+                android:textColor="@color/white_color"
+                android:paddingBottom="@dimen/padding_bottom_25dp"
+                android:layout_width="wrap_content"
+                android:textStyle="bold|italic"
+                android:layout_height="wrap_content"
+                android:text="@string/welcome" />
+            <Button android:textSize="@dimen/btn_get_started_txt_size" android:textColor="@color/white_color" android:id="@+id/btn_get_started" android:background="@drawable/get_started_bg" android:layout_width="fill_parent" android:layout_height="@dimen/height_48dp" android:text="@string/get_started" android:textAllCaps="false" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
